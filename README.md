@@ -9,3 +9,5 @@ As I searched for free APIs to use in my project, I found a list of them on [Hub
 Among the various APIs, I decided to use the [Game of Thrones API](https://gameofthronesquotes.xyz/) and the [Youtube API search package](https://www.npmjs.com/package/youtube-api-search).
 
 This project uses some basic concepts such as custom hooks, using [bootstrap](https://getbootstrap.com/), storing data in [localstorage](https://programmingwithmosh.com/react/localstorage-react/), consuming APIs and others.
+
+The project is deployed [here](https://game-of-thrones-web-app.vercel.app/)
