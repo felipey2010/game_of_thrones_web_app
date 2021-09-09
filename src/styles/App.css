@@ -1,0 +1,41 @@
+main {
+  display: flex;
+  align-items: center;
+  margin: 16px;
+  flex-direction: column;
+}
+
+.searchBox {
+  padding: 4px;
+  background-color: white;
+  width: 35vw;
+  text-align: center;
+  font-size: 16px;
+}
+
+.home {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home .list-ul {
+  list-style: none;
+  font-size: 2em;
+}
+
+.home .list-ul li a {
+  text-decoration: none;
+}
+
+.quote-container {
+  height: 100vh;
+}
+
+.quote-container button {
+  margin-top: 20px;
+}

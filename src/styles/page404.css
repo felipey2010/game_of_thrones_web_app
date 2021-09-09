@@ -1,0 +1,27 @@
+.page404-container {
+  background-color: "#FFFFFF";
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.page404-text {
+  font-size: 64pt;
+  text-transform: uppercase;
+  color: "#303030";
+  margin: 0px;
+}
+.page404-description {
+  font-size: 12pt;
+  text-transform: uppercase;
+  color: "#303030";
+  margin: 0px;
+}
+.page404-button {
+  font-size: 12pt;
+  color: "#303030";
+  margin-top: 8px;
+}
